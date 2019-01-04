@@ -4,7 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 		<modelVersion>4.0.0</modelVersion>
   		<groupId>cl.foxcorp</groupId>
-  		<artifactId>helloworld</artifactId>
+  		<artifactId>HelloWorld</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   		<packaging>war</packaging>
 
@@ -16,7 +16,7 @@
     		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     		<maven.compiler.source>1.7</maven.compiler.source>
 	    	<maven.compiler.target>1.7</maven.compiler.target>
-			<spring.version>4.0.1.RELEASE</spring.version>
+			<spring.version>4.3.17.RELEASE</spring.version>
 		</properties>
 	  
   		<dependencies>
@@ -64,7 +64,7 @@
   		</dependencies>
 
   		<build>
-    		<finalName>helloworld</finalName>
+    		<finalName>HelloWorld</finalName>
       		<plugins>
            		<plugin>
                		<groupId>org.apache.tomcat.maven</groupId>
