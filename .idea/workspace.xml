@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b737551-86e0-43fd-9c8b-2e557269f758" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/classes/cl/foxcorp/helloworld/controller/HelloWorldController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/lib/axis.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/lib/commons-discovery-0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/lib/commons-logging.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/lib/jaxrpc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/lib/saaj.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/lib/spring-aop-4.3.17.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/lib/spring-beans-4.3.17.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/lib/spring-context-4.3.17.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/lib/spring-core-4.3.17.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/lib/spring-expression-4.3.17.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/lib/spring-web-4.3.17.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/lib/spring-webmvc-4.3.17.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/lib/wsdl4j.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/views/helloworld.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/wsdl/maven-4.0.0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/wsdl/maven-4.0.0.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/wsdl/maven-4.0.01.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cl/foxcorp/helloworld/controller/HelloWorldController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-    </list>
+    <list default="true" id="9b737551-86e0-43fd-9c8b-2e557269f758" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="238">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -187,7 +154,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546611240984" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546611771647" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
@@ -269,9 +236,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -280,13 +246,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6406959" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6399395" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.3502455" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49848714" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.35930407" side_tool="true" visible="true" weight="0.17184943" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.3600605" side_tool="true" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info active="true" anchor="bottom" id="Messages" order="10" sideWeight="0.4977307" visible="true" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -381,8 +347,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="238">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
         </state>
       </provider>
     </entry>
