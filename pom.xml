@@ -8,7 +8,7 @@
   		<version>0.0.1-SNAPSHOT</version>
   		<packaging>war</packaging>
 
-  		<name>helloworld Maven Webapp</name>
+  		<name>Spring Sample Example Maven Webapp</name>
   		<!-- FIXME change it to the project's website -->
   		<url>http://www.example.com</url>
 
