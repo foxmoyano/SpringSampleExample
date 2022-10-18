@@ -1,0 +1,20 @@
+Package Control Messages
+========================
+
+MarkdownEditing
+---------------
+
+  # MarkdownEditing 3.1.7 Changelog
+
+  Your _MarkdownEditing_ plugin is updated. Enjoy new version. For any type of
+  feedback you can use [GitHub issues][issues].
+
+  ## Bug Fixes
+
+  * Fix automatic tab title if `set_unsaved_view_name` is absent
+
+  ## New Features
+
+  ## Changes
+
+  [issues]: https://github.com/SublimeText-Markdown/MarkdownEditing/issues
