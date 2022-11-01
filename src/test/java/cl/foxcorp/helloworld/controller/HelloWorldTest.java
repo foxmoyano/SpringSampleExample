@@ -14,7 +14,7 @@ import org.springframework.test.context.support.AnnotationConfigContextLoader;
 @ContextConfiguration(classes = AppConfig.class, loader = AnnotationConfigContextLoader.class)
 public class HelloWorldTest
 {
-    final static String message = "Test OK on Jenkins!!!";
+    final static String message = "Test OK by Jenkins!!!";
 
     @Test
     public void testMessage() {
